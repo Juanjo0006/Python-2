@@ -7,4 +7,5 @@ A continuación se describe una tabla con los resultados antes de ejecutar el mu
 | Función | Tiempo (S) |
 |---------|------------|
 | Normal  |   49.50    |
-| Multipr |   14.22    |
+| Thread  |   10.50    |
+| Asyn    |   1.54     |
