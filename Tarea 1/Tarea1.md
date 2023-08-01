@@ -1,11 +1,11 @@
-#*Documentación*
+*Documentación*
 
-API ejegida: EONET (Earth Observatory Natural Event Tracker)
+API elegida: EONET (Earth Observatory Natural Event Tracker)
 [URL] (https://eonet.gsfc.nasa.gov/docs/v2.1)
 
 La página que pertenece a la NASA permite acceder a datos sobre fenómenos naturales ocurridos. 
 
-##*Endpoints*
+*Endpoints*
 
 GET: https://eonet.gsfc.nasa.gov/api/v2.1/events?year={year}
 Parámetro: "Year"
