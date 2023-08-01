@@ -11,7 +11,7 @@ GET: https://eonet.gsfc.nasa.gov/api/v2.1/events?year={year}
 Parámetro: "Year"
 GET: https://eonet.gsfc.nasa.gov/api/v2.1/categories
 
-##*Funciones*
+*Funciones*
 
 1. get_categories_with_event_count(year): Esta función obtiene los eventos pobtenidos de la API recibiendo el parámentro "year". La información se filtra y la función cuenta la cantidad de eventos por categoría. Identifica las categorías y devuelve valores como la cantidad de eventos ocurridos. 
 2. get_all_categories(): Esta fucnión solicita el nombre de todas las categorías y devuelve la lista con los nombres de todas las categorías presentes en la API. 
